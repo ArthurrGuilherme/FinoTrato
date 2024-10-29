@@ -2,3 +2,7 @@
     background: url(https://i.pinimg.com/736x/92/a2/7b/92a27b57bd869660bc2394cc1f4f0047.jpg);
     background-size: cover;
 }   
+.traco {
+    border-top: 1px solid #000;
+    width: 20%;
+}
