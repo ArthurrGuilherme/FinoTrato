@@ -1,8 +1,14 @@
 #Containerprimario {
-    background: url(https://i.pinimg.com/736x/92/a2/7b/92a27b57bd869660bc2394cc1f4f0047.jpg);
+    background: url(/img/papel.jpg);
     background-size: cover;
-}   
+    background-position: center;
+} 
 .traco {
-    border-top: 1px solid #000;
+    border-top: 1px solid #000000;
     width: 17%;
 }
+.Icon {
+    position: relative;
+    left: 20rem;
+    top: 7rem;
+}   
