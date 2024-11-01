@@ -1,5 +1,5 @@
 #Containerprimario {
-    background: url(/img/papel.jpg);
+    background: url(./img/papel.jpg);
     background-size: cover;
     background-position: center;
 } 
