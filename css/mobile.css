@@ -25,8 +25,20 @@
     }
 }
 @media (max-width: 900px)  {
-    
     #mobilecard {
         display: none !important;
+    }
+    #Footer {
+        flex-direction: column;
+        gap: .8rem;
+    }
+    #email {
+        font-size: .9rem;
+    }
+    #mobilefooter {
+        display: none;
+    }
+    .desktopfooter {
+        display: block;
     }
 }

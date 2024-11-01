@@ -20,3 +20,6 @@
 #mobilecard {
     display: block;
 }
+.desktopfooter {
+    display: none;
+}
