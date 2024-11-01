@@ -1,0 +1,14 @@
+@media (max-width: 900px) {
+    header {
+        display: none;
+    }
+    #Containerprimario {
+        background-position-x: -35rem;
+    }
+    #SessaoPrimaria {
+        height: 100vh;
+    }
+    .mobilenone {
+        display: none;
+    }
+}
