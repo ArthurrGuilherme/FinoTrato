@@ -14,4 +14,10 @@
     #ServicoSessao {
         flex-direction: column;
     }
+    .mobiletexto {
+        display: block;
+    } 
+    #Containerhistoria {
+        padding: 3rem 0px
+    }
 }

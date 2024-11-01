@@ -10,4 +10,7 @@
     position: relative;
     left: 20rem;
     top: 7rem;
-}   
+}  
+.mobiletexto {
+    display: none;
+} 
