@@ -11,4 +11,7 @@
     .mobilenone {
         display: none;
     }
+    #ServicoSessao {
+        flex-direction: column;
+    }
 }
