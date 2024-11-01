@@ -20,4 +20,13 @@
     #Containerhistoria {
         padding: 3rem 0px !important
     }
+    #mobiletexto {
+        display: block;
+    }
+}
+@media (max-width: 900px)  {
+    
+    #mobilecard {
+        display: none !important;
+    }
 }

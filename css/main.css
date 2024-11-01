@@ -14,3 +14,9 @@
 .mobiletexto {
     display: none;
 } 
+#mobiletexto {
+    display: none;
+}
+#mobilecard {
+    display: block;
+}
